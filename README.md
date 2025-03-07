@@ -1,11 +1,11 @@
 This repository contains 10 simple Python programs (part 2).
 
 ### Course Information
+
 - **Course:** `CMPE 103` Object Oriented Programming
 - **Assignment:** Practice Python Program Batch 2
 - **Author:** :ninja: **John Mike Asuncion** (BSCPE 1-2)
 - **Professor:** Engr. Danilo C. Madrigalejos, Jr.
-
 
 ## Programs Included
 
